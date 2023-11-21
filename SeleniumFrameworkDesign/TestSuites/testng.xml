@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="Submit Order Test">
+        <classes>
+            <class name="alex.tests.SubmitOrderTest"/>
+        </classes>
+    </test>
+
+    <test verbose="2" preserve-order="true"
+          name="Error Validation Test">
+        <classes>
+            <class name="alex.tests.ErrorValidationsTest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,13 @@
+[
+  {
+   "email": "faga@testmail.com",
+    "password": "P@ssw0rd1",
+    "product": "ZARA COAT 3"
+  },
+  {
+    "email": "fagaadmin@testmail.com",
+    "password": "P@ssw0rd1",
+    "product": "ADIDAS ORIGINAL"
+  }
+
+]
